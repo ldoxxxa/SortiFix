@@ -40,29 +40,29 @@ The project separates the user interface from the application logic and file sto
 ### Start Screen
 Choose the grid dimensions to create a new layout or load an existing baggage sorting system.
 
-![Start screen](<Screenshots/Bildschirmfoto 2026-10-05 um 16.22.34(1).png>)
+<img src="Screenshots/Bildschirmfoto 2026-10-05 um 16.22.34(1).png" alt="Start screen" width="600">
 
 ### Layout Editor
 Build and edit conveyor layouts using straight sections, bends, switches, destination stations, and baggage.
 
-![Layout editor](<Screenshots/Bildschirmfoto 2026-10-05 um 16.22.51(1).png>)
+<img src="Screenshots/Bildschirmfoto 2026-10-05 um 16.22.51(1).png" alt="Layout editor" width="600">
 
 ### Switch Routing Rules
 Configure incoming and outgoing directions and define routing rules based on baggage destinations.
 
-![Switch routing rules](<Screenshots/Bildschirmfoto 2026-10-05 um 16.38.41.png>)
+<img src="Screenshots/Bildschirmfoto 2026-10-05 um 16.38.41.png" alt="Switch routing rules" width="300">
 
 ### Destination Configuration
 Assign a destination name, such as Terminal A, to a destination station.
 
-![Destination configuration](<Screenshots/Bildschirmfoto 2026-10-05 um 16.40.07.png>)
+<img src="Screenshots/Bildschirmfoto 2026-10-05 um 16.40.07.png" alt="Destination configuration" width="350">
 
 ### Simulation View
 Start, pause, or reset the simulation to follow baggage along the configured conveyor route.
 
-![Simulation view](<Screenshots/Bildschirmfoto 2026-10-05 um 16.26.52(1).png>)
+<img src="Screenshots/Bildschirmfoto 2026-10-05 um 16.26.52(1).png" alt="Simulation view" width="600">
 
 ### Completed Transport
 The baggage has reached its destination, completing the simulation.
 
-![Completed transport](<Screenshots/Bildschirmfoto 2026-10-05 um 16.27.00(1).png>)
+<img src="Screenshots/Bildschirmfoto 2026-10-05 um 16.27.00(1).png" alt="Completed transport" width="600">
