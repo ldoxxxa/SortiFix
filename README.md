@@ -35,7 +35,34 @@ SortiFX is a JavaFX desktop application for designing and simulating baggage sor
 The project separates the user interface from the application logic and file storage. Its main components are organized into `view`, `controller`, `model`, and `persistence`.
 
 ---
-
 ## 📸 Screenshots
 
-Screenshots of the application will be added here.
+### Start Screen
+Choose the grid dimensions to create a new layout or load an existing baggage sorting system.
+
+![Start screen](<screenshots/Bildschirmfoto 2026-10-05 um 16.22.34(1).png>)
+
+### Layout Editor
+Build and edit conveyor layouts using straight sections, bends, switches, destination stations, and baggage.
+
+![Layout editor](<screenshots/Bildschirmfoto 2026-10-05 um 16.22.51(1).png>)
+
+### Switch Routing Rules
+Configure incoming and outgoing directions and define routing rules based on baggage destinations.
+
+![Switch routing rules](<screenshots/Bildschirmfoto 2026-10-05 um 16.38.41.png>)
+
+### Destination Configuration
+Assign a destination name, such as Terminal A, to a destination station.
+
+![Destination configuration](<screenshots/Bildschirmfoto 2026-10-05 um 16.40.07.png>)
+
+### Simulation View
+Start, pause, or reset the simulation to follow baggage along the configured conveyor route.
+
+![Simulation view](<screenshots/Bildschirmfoto 2026-10-05 um 16.26.52(1).png>)
+
+### Completed Transport
+The baggage has reached its destination, completing the simulation.
+
+![Completed transport](<screenshots/Bildschirmfoto 2026-10-05 um 16.27.00(1).png>)
