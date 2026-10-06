@@ -66,3 +66,50 @@ Start, pause, or reset the simulation to follow baggage along the configured con
 The baggage has reached its destination, completing the simulation.
 
 <img src="Screenshots/Bildschirmfoto 2026-10-05 um 16.27.00.png" alt="Completed transport" width="600">
+
+## 🚀 Getting Started
+
+### Requirements
+
+- Java Development Kit (JDK) 21
+
+Gradle is included through the Gradle wrapper and does not need
+to be installed separately.
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/ldoxxxa/SortiFix.git
+cd SortiFix
+```
+
+Alternatively, download and extract the repository as a ZIP file.
+
+### 2. Run the Application
+
+Open a terminal in the project folder containing `build.gradle`.
+
+**macOS / Linux**
+
+```bash
+chmod +x gradlew
+./gradlew run
+```
+
+**Windows**
+
+```powershell
+.\gradlew.bat run
+```
+
+The first run requires an internet connection to download
+Gradle and the project dependencies.
+
+### 3. Use SortiFX
+
+1. Create a new layout by choosing the grid dimensions, or load an existing layout.
+2. Place conveyor elements, switches, and destination stations.
+3. Configure routing rules and add baggage.
+4. Validate the layout before starting the simulation.
+5. Run the simulation to observe baggage transport.
+6. Save your layout to continue working on it later.
